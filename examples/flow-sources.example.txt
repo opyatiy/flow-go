@@ -1,0 +1,3 @@
+# UTF-8. Copy to storage root as flow-sources.txt; restart Flow after editing.
+# Name | direct HTTP/HTTPS catalog URL
+# My catalog | https://example.org/catalog.tsv

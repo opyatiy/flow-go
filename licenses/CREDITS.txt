@@ -1,0 +1,1 @@
+Uses the FreeType Project (https://freetype.org) under the FreeType License. FreeType copyright its respective authors. See BUILD.txt and vendor licenses for other credits.

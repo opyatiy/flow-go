@@ -1,0 +1,2 @@
+id	name	region	kind	size	sha256	url
+MY_APP	My homebrew	Homebrew	zip	0		https://example.org/my-app.zip
